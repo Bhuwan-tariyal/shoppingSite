@@ -1,0 +1,63 @@
+.font_size{
+    font-size: medium;
+}
+.primary{
+    color: greenyellow;
+}
+.bg_color{
+    background-color: rgb(148, 231, 148);
+}
+
+
+h6{
+    
+    width: 90px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-top: 5px;
+    height: 30px;
+}
+
+input{
+    margin: 20px;
+}
+
+.div_size{
+    width:60px;
+    height: 30px;
+}
+.img_size{
+    width: 40px;
+    height: 20px;
+}
+.div_size_delivary{
+    width: 100px;
+    height: 30px;
+}
+.txt_size{
+    font-size: 12px;
+}
+.img_cart{
+    width: 50px;
+    height: 32px;
+}
+.line{
+    width: 140px;
+    height: 3px;
+    border: 2px solid black;
+}
+.h_cart{
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+.p_cart{
+    font-size: 10px;
+}
+.container_size{
+    width: 30%;
+}
+
+.arrow_size{
+    width:40px;
+    height: 18px;
+}
